@@ -40,6 +40,10 @@ Megjegyzés: helyi XAMPP környezetben az email küldés további konfiguráció
 
 A szükséges táblák létrehozásához használd a `database.sql` fájlt.
 
+![Főoldal](images/Screenshot2.jpg)
+
+![Foglalási űrlap](images/Screenshot1.jpg)
+
 ## Készítette
 
 Kőműves Tamás
